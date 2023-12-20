@@ -1,0 +1,10 @@
+tensorflow==2.6.0 
+fastai==1.0.61 
+fastapi==0.73.0 
+uvicorn==0.17.4 
+super_image==0.1.6
+dill==0.3.4
+moviepy==1.0.3
+IPython
+python-multipart
+Jinja2==3.0.3
